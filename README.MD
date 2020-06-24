@@ -1,1 +1,1 @@
-Dans ce repo nous allons faire des maths
+Dans ce repo nous allons faire des maths !
